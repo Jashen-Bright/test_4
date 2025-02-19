@@ -7,3 +7,4 @@ def main():
     n=input("Enter number: ")
     palindrome(n)
 main()
+#Code verified
